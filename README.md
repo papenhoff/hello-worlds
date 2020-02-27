@@ -1,2 +1,2 @@
 # hello-worlds
-Welcome to mine now
+Welcome to mine
